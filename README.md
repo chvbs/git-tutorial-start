@@ -1,9 +1,10 @@
-# Git Tutorial
+# Git Tutorial neu
 Example to learn the basics of git.
 The finished state is [tgressly/git-tutorial-finished](https://github.com/tgressly/git-tutorial-finished "GitHub - tgressly/git-tutorial-finished: Finished state of tgressly/git-tutorial-start")
 
-## Purpose
-Used for git training
+//## Purpose
+// Used
+
 
 ## Contribute
 Fork and test in your own repo.
